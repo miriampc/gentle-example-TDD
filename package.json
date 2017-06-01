@@ -1,0 +1,24 @@
+{
+  "name": "gentle-tdd",
+  "version": "1.0.0",
+  "description": "Ejercicio de TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miriampc/gentle-example-TDD.git"
+  },
+  "keywords": [
+    "test",
+    "tdd",
+    "ejemplo"
+  ],
+  "author": "Miriam Peralta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miriampc/gentle-example-TDD/issues"
+  },
+  "homepage": "https://github.com/miriampc/gentle-example-TDD#readme"
+}
